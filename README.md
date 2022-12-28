@@ -10,7 +10,7 @@ The database file can be easily downloaded as a a geodatabase from GitHub by acc
 - https://downgit.github.io/#/home?url=https://github.com/anasa30/PT_FuelModels/tree/main/datasets/DATASETS.gdb
 
 ## Community Feedback
-If you have any sugestion on how to improve the map of fuel models in Portugal or if you encounter any issue using the package, please open a new [issue](https://github.com/anasa30/PT_FuelModels/issues).
+If you have any sugestion on how to improve the map of fuel models in Portugal or if you encounter any issue when downloading or using the dataset, please open a new [issue](https://github.com/anasa30/PT_FuelModels/issues).
 
 ## Citation
 Please use the following citation when refering to this dataset:
