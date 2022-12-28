@@ -22,7 +22,7 @@ The database file can be easily downloaded as a a geodatabase from GitHub by acc
 ## Community Feedback
 If you have any sugestion on how to improve the map of fuel models in Portugal or if you encounter any issue when downloading or using the dataset, please open a new [issue](https://github.com/anasa30/PT_FuelModels/issues).
 
-## Peridiocity for data updates
+## Frequency of data updates
 The map of fuel models is updated once per year, before the starting of a new fire season in Portugal (around late spring). After an update, all the hyperlinks redirecting to the data download are also updated. The base layers that are used to generate the map of fuel models (e.g. land cover, national fire atlas, etc.) are also updated once per year around late spring, depending on the availability of updated data.
 
 ## Citation
