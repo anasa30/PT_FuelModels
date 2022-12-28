@@ -10,7 +10,7 @@ The database file can be easily downloaded as a a geodatabase from GitHub by acc
 - https://downgit.github.io/#/home?url=https://github.com/anasa30/PT_FuelModels/tree/main/datasets/DATASETS.gdb
 
 ## Community Feedback
-If you have any sugestion on how to improve MTTfireCAL package or if you encounter any issue using the package, please open a new [issue](https://github.com/bmaparicio/MTTfireCAL/issues). Please include a minimal, reproducible example of the bug, along with the exact error message or output you receive and the behavior you expect.
+If you have any sugestion on how to improve the map of fuel models in Portugal or if you encounter any issue using the package, please open a new [issue](https://github.com/bmaparicio/MTTfireCAL/issues). Please include a minimal, reproducible example of the bug, along with the exact error message or output you receive and the behavior you expect.
 
 ## Citation
 Please use the following citation when refering to this package:
