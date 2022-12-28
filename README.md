@@ -10,7 +10,7 @@ The dataset contains the layers identified with letters in the figure, namely:
 - DATASET_C: National fire atlas
 - DATASET_D: Satellite vegetation indexes
 - DATASET_E: Copernicus tree density cover (2018)
-- DATASET_F: 
+- DATASET_F: Fieldwork
 - DATASET_G: Land cover and fuel management operations
 - DATASET_H: Bioclimatic and lithological classification
 
