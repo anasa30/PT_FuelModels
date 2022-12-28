@@ -4,6 +4,14 @@ This repository contains the fuel maps of fuel models for Portugal and the raw d
 
 ![flowchart](https://user-images.githubusercontent.com/117373204/209812230-83abfc4d-a6cb-4f6e-9608-bc2955f29311.png)
 
+The dataset contains the layers identified with letters in the figure, namely:
+- DATASET_A: Land cover (cos2018)
+- DATASET_B: Corine land cover (2018)
+- DATASET_C: National fire atlas
+- DATASET_D: 
+- DATASET_E:
+- DATASET_F:
+
 ## Download the database file
 The database file can be easily downloaded as a a geodatabase from GitHub by accessing to:
 - https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fanasa30%2FPT_FuelModels%2Ftree%2Fmain%2Fdatasets 
@@ -11,6 +19,9 @@ The database file can be easily downloaded as a a geodatabase from GitHub by acc
 
 ## Community Feedback
 If you have any sugestion on how to improve the map of fuel models in Portugal or if you encounter any issue when downloading or using the dataset, please open a new [issue](https://github.com/anasa30/PT_FuelModels/issues).
+
+## Peridiocity for data updates
+The map of fuel models is updated once per year, before the starting of a new fire season in Portugal (around late spring). After an update, all the hyperlinks redirecting to the data download are also updated. The base layers that are used to generate the map of fuel models (e.g. land cover, national fire atlas, etc.) are also updated once per year around late spring, depending on the availability of updated data.
 
 ## Citation
 Please use the following citation when refering to this dataset:
