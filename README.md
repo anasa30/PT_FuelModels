@@ -1,3 +1,4 @@
 # PT_FuelModels
 
-![This is an image](C:/Users/aparicio/Desktop/repositorio_AS/flowchart.png)
+
+![flowchart](https://user-images.githubusercontent.com/117373204/209812230-83abfc4d-a6cb-4f6e-9608-bc2955f29311.png)
