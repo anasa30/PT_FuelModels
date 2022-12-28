@@ -10,8 +10,8 @@ The database file can be easily downloaded as a a geodatabase from GitHub by acc
 - https://downgit.github.io/#/home?url=https://github.com/anasa30/PT_FuelModels/tree/main/datasets/DATASETS.gdb
 
 ## Community Feedback
-If you have any sugestion on how to improve the map of fuel models in Portugal or if you encounter any issue using the package, please open a new [issue](https://github.com/bmaparicio/MTTfireCAL/issues). Please include a minimal, reproducible example of the bug, along with the exact error message or output you receive and the behavior you expect.
+If you have any sugestion on how to improve the map of fuel models in Portugal or if you encounter any issue using the package, please open a new [issue](https://github.com/anasa30/PT_FuelModels/issues).
 
 ## Citation
-Please use the following citation when refering to this package:
-Aparício, B.A., Benali, A., Sá, A.C.L. (2023) ‘MTTfireCAL’ package for R – An innovative, comprehensive and fast procedure to calibrate the MTT fire spread modelling system. MethodsX.
+Please use the following citation when refering to this dataset:
+Sá, A.C.L., Benali, A., Bruni, C., Mota, C., Aparicio, B.A., Pereira, J.M.C., Fernandes, P.M. (subm.) A customized method to produce adaptable fuel models dataset.
