@@ -5,4 +5,4 @@ This repository contains the fuel maps of fuel models for Portugal and the raw d
 ![flowchart](https://user-images.githubusercontent.com/117373204/209812230-83abfc4d-a6cb-4f6e-9608-bc2955f29311.png)
 
 ## Download the database file
-The database file can be easily downloaded
+The database file can be easily downloaded as a a geodatabase from GitHub at https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fanasa30%2FPT_FuelModels%2Ftree%2Fmain%2Fdatasets
