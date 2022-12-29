@@ -13,6 +13,7 @@ The dataset contains the layers identified with letters in the figure, namely:
 - DATASET_F: Fieldwork
 - DATASET_G: Land cover and fuel management operations
 - DATASET_H: Bioclimatic and lithological classification
+- Final map of fuel models
 
 ## Download the database file
 The database file can be easily downloaded as a a geodatabase from GitHub by using Download Directory or DownGit, or by simply accessing to:
