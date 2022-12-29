@@ -15,6 +15,8 @@ The dataset contains the layers identified with letters in the figure, namely:
 - DATASET_H: Bioclimatic and lithological classification
 - Final map of fuel models
 
+A comprehensive description of the fuel models developed for Portugal can be found [here](https://github.com/anasa30/PT_FuelModels/blob/main/Table_FM_description.pdf).
+
 ## Download the database file
 The database file can be easily downloaded as a a geodatabase from GitHub by using Download Directory or DownGit, or by simply accessing to:
 - https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fanasa30%2FPT_FuelModels%2Ftree%2Fmain%2Fdatasets 
