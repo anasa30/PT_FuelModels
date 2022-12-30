@@ -2,7 +2,8 @@
 
 This repository contains the fuel maps of fuel models for Portugal and the raw datasets used to develop them. The generation of maps of fuel models in Portugal follows the methodology described in Sá et al. 2023 (DOI) and is summarized in the figure below.
 
-![flowchart](https://user-images.githubusercontent.com/117373204/209812230-83abfc4d-a6cb-4f6e-9608-bc2955f29311.png)
+![workflow_v1](https://user-images.githubusercontent.com/117373204/210095096-28f13635-88f8-47c6-94e6-a526cf376ab4.png)
+
 
 The dataset contains the layers identified with letters in the figure, namely:
 - DATASET_A: Land cover (cos2018)
