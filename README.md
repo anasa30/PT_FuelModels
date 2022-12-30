@@ -4,7 +4,6 @@ This repository contains the fuel maps of fuel models for Portugal and the raw d
 
 ![workflow_v1](https://user-images.githubusercontent.com/117373204/210095096-28f13635-88f8-47c6-94e6-a526cf376ab4.png)
 
-
 The dataset contains the layers identified with letters in the figure, namely:
 - DATASET_A: Land cover (cos2018)
 - DATASET_B: Corine land cover (2018)
