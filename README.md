@@ -20,7 +20,7 @@ A comprehensive description of the fuel models developed for Portugal with in si
 ## Download the database file
 The database file can be easily downloaded as a a geodatabase from GitHub by using Download Directory or DownGit, or by simply accessing to:
 - https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fanasa30%2FPT_FuelModels%2Ftree%2Fmain%2FFUMOD%2FDatasets
-- https://downgit.github.io/#/home?url=https://github.com/anasa30/PT_FuelModels/tree/main/datasets/DATASETS.gdb
+- https://downgit.github.io/#/home?url=https://github.com/anasa30/PT_FuelModels/tree/main/FUMOD/Datasets/DATASET.gdb
 
 ## Community Feedback
 If you have any sugestion on how to improve the map of fuel models in Portugal or if you encounter any issue when downloading or using the dataset, please open a new [issue](https://github.com/anasa30/PT_FuelModels/issues).
