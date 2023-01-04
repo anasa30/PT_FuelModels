@@ -32,4 +32,4 @@ If you wish to download past versions you can use the [Download Directory](https
 
 ## Citation
 Please use the following citation when refering to this dataset:
-Sá, A.C.L., Benali, A., Bruni, C., Mota, C., Aparicio, B.A., Pereira, J.M.C., Fernandes, P.M. (subm.) A customized method to produce adaptable fuel models dataset.
+Sá, A.C.L., Benali, A., Bruni, C., Mota, C., Aparicio, B.A., Pereira, J.M.C., Fernandes, P.M. (subm.) A method to produce a flexible and customized fuel models dataset
