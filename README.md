@@ -37,13 +37,16 @@ The flowchart below represents the proposed model (FUMOD) composed by a sequence
 10. In the SM10 it is necessary to set a new workspace folder where the final FMM will be saved in the geotiff format.
 11. SM10 produces the final updated FMM in the shrubland areas according to the classification of Atlantic versus Mediterranean types (DATASET_H) for the reference year
 
+
 ## Download the database file
 The database file can be easily downloaded as a a geodatabase from GitHub by using Download Directory or DownGit, or by simply accessing to:
 - https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fanasa30%2FPT_FuelModels%2Ftree%2Fmain%2FFUMOD%2FDatasets
 - https://downgit.github.io/#/home?url=https://github.com/anasa30/PT_FuelModels/tree/main/FUMOD/Datasets/DATASET.gdb
 
+
 ## Community Feedback
 If you have any sugestion on how to improve the map of fuel models in Portugal or if you encounter any issue when downloading or using the dataset, please open a new [issue](https://github.com/anasa30/PT_FuelModels/issues).
+
 
 ## Frequency of data updates
 The map of fuel models is updated once per year, before the starting of a new fire season in Portugal (around late spring). After an update, all the hyperlinks redirecting to the data download are also updated and older versions moved to the corresponding folder in [Fuel Models](https://github.com/anasa30/PT_FuelModels/tree/main/Fuel%20Models). The base layers that are used to generate the map of fuel models (e.g. land cover, national fire atlas, etc.) are available at the [Models](https://github.com/anasa30/PT_FuelModels/tree/main/FUMOD/Models) folder.
