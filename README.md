@@ -2,17 +2,17 @@
 
 This repository contains the fuel maps of fuel models for Portugal and the raw datasets used to develop them. 
 
-Package: FUMOD
+**Package:** FUMOD
 
-Version: V1
+**Version:** V1
 
-Data: December 2022
+**Data:** December 2022
 
-Product: Fuel Models Map
+**Product:** Fuel Models Map
 
-Study area: Mainland Portugal
+**Study area:** Mainland Portugal
 
-Properties: Geotiff gridded datasets with pixel size of 100-m; UTM-29 projection
+**Properties:** Geotiff gridded datasets with pixel size of 100-m; UTM-29 projection
 
 
 The generation of maps of fuel models in Portugal follows the methodology described in Sá et al. 2023 (DOI) and is summarized in the figure below.
