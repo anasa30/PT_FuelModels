@@ -6,7 +6,7 @@ This repository contains the fuel maps of fuel models for Portugal and the raw d
 
 **Version:** V1
 
-**Data:** December 2022
+**Date:** December 2022
 
 **Product:** Fuel Models Map
 
