@@ -47,9 +47,7 @@ If you have any sugestion on how to improve the map of fuel models in Portugal o
 
 
 ## Frequency of data updates
-The map of fuel models is updated once per year, before the starting of a new fire season in Portugal (around late spring). After an update, all the hyperlinks redirecting to the data download are also updated and older versions moved to the corresponding folder in [Fuel Models](https://github.com/anasa30/PT_FuelModels/tree/main/Fuel%20Models). The base layers that are used to generate the map of fuel models (e.g. land cover, national fire atlas, etc.) are available at the [Models](https://github.com/anasa30/PT_FuelModels/tree/main/FUMOD/Models) folder.
-
-If you wish to download past versions you can use the [Download Directory](https://download-directory.github.io/) or [DownGit](https://downgit.github.io/) and paste de hyperlink to the folder you wish to download. For example, to download the models of 2021 from DownGit simply paste the path to the folder (https://github.com/anasa30/PT_FuelModels/tree/main/FUMOD/Models/SubModels_2021.gdb) in the mainpage of DownGit [DownGit](https://downgit.github.io/)
+The map of fuel models is updated once per year, before the starting of a new fire season in Portugal (around late spring). After an update, a new folder corresponding to the present year is created in [Fuel Models](https://github.com/anasa30/PT_FuelModels/tree/main/Fuel%20Models). The layers used to create the fuel map are also updated every year. If you wish to download past versions of submodels or any other layer used to create the fuel model map, please contact the authors at anasa30@gmail.com
 
 ## Reference
 Sá, A.C.L., Benali, A., Aparicio, B.A., Bruni, C., Mota, C., Pereira, J.M.C. and Fernandes, P.M. A method to produce a flexible and customized fuel models dataset. MethodsX. Submitted (December 2022)
