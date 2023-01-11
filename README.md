@@ -24,18 +24,18 @@ The flowchart below represents the proposed model (FUMOD) composed by a sequence
 
 ![workflow_v1](https://user-images.githubusercontent.com/117373204/210095096-28f13635-88f8-47c6-94e6-a526cf376ab4.png)
 
-The dataset contains the layers identified with letters in the figure, namely:
-- DATASET_A: Land cover (cos2018)
-- DATASET_B: Corine land cover (2018)
-- DATASET_C: National fire atlas
-- DATASET_D: Satellite vegetation indexes
-- DATASET_E: Copernicus tree density cover (2018)
-- DATASET_F: Fieldwork
-- DATASET_G: Land cover and fuel management operations
-- DATASET_H: Bioclimatic and lithological classification
-- Final map of fuel models
-
-A comprehensive description of the fuel models developed for Portugal with in situ photographies can be found [here](https://github.com/anasa30/PT_FuelModels/blob/main/Documents/Table_FM_description.pdf).
+## Technical steps and considerations
+1. Copy the toolbox FUMOD to your working folder.
+2. Copy the input GEODATABASE to the previously created folder. It includes DATASETS (from A to H) the Industrial properties fuel maps (SM8) and the pre- main fire season burned areas for the reference years (SM9). The reference year is the year for which the fuel models map is being produced. This folder will be also used to save the OUTPUT geodatabase (see next point); the output database for each reference year and the updated Fuel Models Maps (FMM).
+3. Create a new geodatabase (OUTPUT) where the output maps from running the sub-models 1 to 6 (SM) will be saved. Notice that sub-models SM8 and SM9 are not shown either because the first uses confidential data and the second used provisory data.
+4. Define the Workspace in the Environment Settings of ArcMap, with the full path to the previously created database (point 2).
+5. Some sub-models (SM5 and SM7) include two intermediate models; each begin with a number that indicates the order that should be run. These models are used to check for errors. The full model integrates the intermediate models.
+6. Only the first three sub-models (SM1 to SM3) are static, i.e., they all are used in each reference year (In the study, from 2019 to 2022).
+7. For example, SM4 (fuel models in burned areas) depends on time since last fire variable (TSLF) which corresponds to DATASET_C_year, where “year” ranges from 2019 to 2022.
+8. Some SM have different output datasets that are used to traceline and check fore rrors. These are the SM5, SM7 and SM10.
+9. For example, the SM5 outputs two intermediate datasets: 1) the map of fuel models in burned shrublands; and 2) an update of the previous map using SAVI spectral index from June of the reference year.
+10. In the SM10 it is necessary to set a new workspace folder where the final FMM will be saved in the geotiff format.
+11. SM10 produces the final updated FMM in the shrubland areas according to the classification of Atlantic versus Mediterranean types (DATASET_H) for the reference year
 
 ## Download the database file
 The database file can be easily downloaded as a a geodatabase from GitHub by using Download Directory or DownGit, or by simply accessing to:
