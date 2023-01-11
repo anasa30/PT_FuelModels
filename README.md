@@ -32,7 +32,7 @@ The flowchart below represents the proposed model (FUMOD) composed by a sequence
 5. Some sub-models (SM5 and SM7) include two intermediate models; each begin with a number that indicates the order that should be run. These models are used to check for errors. The full model integrates the intermediate models.
 6. Only the first three sub-models (SM1 to SM3) are static, i.e., they all are used in each reference year (In the study, from 2019 to 2022).
 7. For example, SM4 (fuel models in burned areas) depends on time since last fire variable (TSLF) which corresponds to DATASET_C_year, where “year” ranges from 2019 to 2022.
-8. Some SM have different output datasets that are used to traceline and check fore rrors. These are the SM5, SM7 and SM10.
+8. Some SM have different output datasets that are used to traceline and check for errors. These are the SM5, SM7 and SM10.
 9. For example, the SM5 outputs two intermediate datasets: 1) the map of fuel models in burned shrublands; and 2) an update of the previous map using SAVI spectral index from June of the reference year.
 10. In the SM10 it is necessary to set a new workspace folder where the final FMM will be saved in the geotiff format.
 11. SM10 produces the final updated FMM in the shrubland areas according to the classification of Atlantic versus Mediterranean types (DATASET_H) for the reference year
