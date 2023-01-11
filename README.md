@@ -38,10 +38,8 @@ The flowchart below represents the proposed model (FUMOD) composed by a sequence
 11. SM10 produces the final updated FMM in the shrubland areas according to the classification of Atlantic versus Mediterranean types (DATASET_H) for the reference year
 
 
-## Download the database file
-The database file can be easily downloaded as a a geodatabase from GitHub by using Download Directory or DownGit, or by simply accessing to:
-- https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fanasa30%2FPT_FuelModels%2Ftree%2Fmain%2FFUMOD%2FDatasets
-- https://downgit.github.io/#/home?url=https://github.com/anasa30/PT_FuelModels/tree/main/FUMOD/Datasets/DATASET.gdb
+## Download large volume of files (e.g. geodatabase)
+A large volume of files can be downloaded at once by using the [Download Directory](https://download-directory.github.io/) or [DownGit](https://downgit.github.io/). To download any folder simply paste the hyperlink to the folder you wish to download. For example, to download the submodels of 2021 from DownGit simply paste the path to the folder (https://github.com/anasa30/PT_FuelModels/tree/main/FUMOD/Models/SubModels_2021.gdb) in the mainpage of DownGit [DownGit](https://downgit.github.io/) 
 
 
 ## Community Feedback
