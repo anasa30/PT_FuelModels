@@ -39,7 +39,7 @@ The flowchart below represents the proposed model (FUMOD) composed by a sequence
 
 
 ## Download large volume of files (e.g. geodatabase)
-A large volume of files can be downloaded at once by using the [Download Directory](https://download-directory.github.io/) or [DownGit](https://downgit.github.io/). To download any folder simply paste the hyperlink to the folder you wish to download. For example, to download the submodels of 2021 from DownGit simply paste the path to the folder (https://github.com/anasa30/PT_FuelModels/tree/main/FUMOD/Models/SubModels_2021.gdb) in the mainpage of [DownGit](https://downgit.github.io/); to download the same data from [Download Directory](https://download-directory.github.io/) paste the path to the precedent folder you wish to download (https://github.com/anasa30/PT_FuelModels/tree/main/FUMOD/Models)
+A large volume of files can be downloaded at once by using the [Download Directory](https://download-directory.github.io/) or [DownGit](https://downgit.github.io/). To download any folder simply paste the hyperlink to the folder you wish to download. For example, to download the submodels of 2021 from DownGit simply paste the path to the folder (https://github.com/anasa30/PT_FuelModels/tree/main/FUMOD/SubModelsOutputs/SubModels_2021.gdb) in the mainpage of [DownGit](https://downgit.github.io/); to download the same data from [Download Directory](https://download-directory.github.io/) paste the path to the precedent folder you wish to download (https://github.com/anasa30/PT_FuelModels/tree/main/FUMOD/SubModelsOutputs)
 
 
 ## Community Feedback
