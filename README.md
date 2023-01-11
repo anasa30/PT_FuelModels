@@ -45,11 +45,8 @@ The map of fuel models is updated once per year, before the starting of a new fi
 
 If you wish to download past versions you can use the [Download Directory](https://download-directory.github.io/) or [DownGit](https://downgit.github.io/) and paste de hyperlink to the folder you wish to download. For example, to download the models of 2021 from DownGit simply paste the path to the folder (https://github.com/anasa30/PT_FuelModels/tree/main/FUMOD/Models/SubModels_2021.gdb) in the mainpage of DownGit [DownGit](https://downgit.github.io/)
 
-## Citation
-Reference: Sá, A.C.L., Benali, A., Aparicio, B.A., Bruni, C., Mota, C., Pereira, J.M.C. and Fernandes, 
-P.M. A method to produce a flexible and customized fuel models dataset. MethodsX. Submitted
-(December 2022)
-Author contact: anasa30@gmail.com
+## Reference
+Sá, A.C.L., Benali, A., Aparicio, B.A., Bruni, C., Mota, C., Pereira, J.M.C. and Fernandes, P.M. A method to produce a flexible and customized fuel models dataset. MethodsX. Submitted (December 2022)
 
-Please use the following citation when refering to this dataset:
-Sá, A.C.L., Benali, A., Bruni, C., Mota, C., Aparicio, B.A., Pereira, J.M.C., Fernandes, P.M. (subm.) A method to produce a flexible and customized fuel models dataset
+
+**Author contact:** anasa30@gmail.com
