@@ -14,8 +14,13 @@ This repository contains the fuel maps of fuel models for Portugal and the raw d
 
 **Properties:** Geotiff gridded datasets with pixel size of 100-m; UTM-29 projection
 
+## Description
+This package is built using ModelBuilder/ArcGis toolbox, developed to produce an updated Fuel Models Map (FMM), based on the overlap of several intermediate fuel models maps (SM) for a reference year. The updated FMM is obtained by running SM from 1 to 10. The algorithms developed to produce SM8 and SM9 are either confidential or rely on provisory data, respectively. Each SM is dependent on different datasets, all organized in a geodatabase. The FUMOD toolbox contains the SM toolsets, inside each there are the developed codes to geoprocess the models. Next figure guides the sequence of steps and datasets needed to produce the updated FMM. 
 
-The generation of maps of fuel models in Portugal follows the methodology described in Sá et al. 2023 (DOI) and is summarized in the figure below.
+
+## Method overview
+
+The flowchart below represents the proposed model (FUMOD) composed by a sequence of the 10 sub-models (SM) and eight datasets (labeled from A to H) to produce the updated fuel models map (FMM).
 
 ![workflow_v1](https://user-images.githubusercontent.com/117373204/210095096-28f13635-88f8-47c6-94e6-a526cf376ab4.png)
 
