@@ -53,4 +53,4 @@ The map of fuel models is updated once per year, before the starting of a new fi
 Sá, A.C.L., Benali, A., Aparicio, B.A., Bruni, C., Mota, C., Pereira, J.M.C. and Fernandes, P.M. A method to produce a flexible and customized fuel models dataset. MethodsX. Submitted (December 2022)
 
 
-**Author contact:** anasa30@gmail.com
+**Author contact:** anasa30@gmail.com / ana.sa@forestwise.pt
